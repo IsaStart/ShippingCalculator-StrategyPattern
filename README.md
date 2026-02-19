@@ -19,7 +19,7 @@ It was implemented as an **ASP.NET Core Web API** to demonstrate clean architect
 ```mermaid
 graph TD
     A[Program.cs] --> B[Services]
-    B --> C[ShippingCalculator]
+    B --> C[ShippingCalculatorService]
 
     A --> D[Controllers]
     D --> E[ShippingController]
