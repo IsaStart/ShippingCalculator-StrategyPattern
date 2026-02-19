@@ -1,0 +1,54 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Test results
+TestResult/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish outputs
+publish/
+dist/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+
+# ASP.NET scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.dbmdl
+*.jfm
